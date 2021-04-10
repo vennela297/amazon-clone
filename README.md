@@ -11,6 +11,10 @@ APP SCREENSHOTS
   
 3. SHOPPING BASKET
   ![WhatsApp Image 2021-04-10 at 10 58 22 AM](https://user-images.githubusercontent.com/72748396/114259474-c9fb8380-99eb-11eb-9b45-f722936a85fc.jpeg)
+  
+ 4.ITEMS ADDED TO THE BASKET
+    ![WhatsApp Image 2021-04-10 at 11 01 04 AM](https://user-images.githubusercontent.com/72748396/114259531-2ced1a80-99ec-11eb-97d0-f3f20112857d.jpeg)
+
 
 
 
