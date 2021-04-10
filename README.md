@@ -3,7 +3,9 @@ DEMO THE APP - https://clone-c33e5.web.app/
 APP SCREENSHOTS
 
 1. LANDING PAGE
-2. 
+![WhatsApp Image 2021-04-10 at 10 52 16 AM](https://user-images.githubusercontent.com/72748396/114259352-f95dc080-99ea-11eb-9e3e-fab3ed00953e.jpeg)
+
+ 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
