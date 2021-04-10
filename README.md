@@ -8,6 +8,10 @@ APP SCREENSHOTS
 2.SIGN IN PAGE
 
   ![WhatsApp Image 2021-04-10 at 10 54 47 AM](https://user-images.githubusercontent.com/72748396/114259417-65402900-99eb-11eb-9c33-a1abf0c5d530.jpeg)
+  
+3. SHOPPING BASKET
+  ![WhatsApp Image 2021-04-10 at 10 58 22 AM](https://user-images.githubusercontent.com/72748396/114259474-c9fb8380-99eb-11eb-9b45-f722936a85fc.jpeg)
+
 
 
  
